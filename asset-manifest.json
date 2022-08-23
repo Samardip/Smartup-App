@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Smartup-App/static/css/main.073c9b0a.css",
+    "main.js": "/Smartup-App/static/js/main.ac1ee56f.js",
+    "static/js/787.b44f576d.chunk.js": "/Smartup-App/static/js/787.b44f576d.chunk.js",
+    "index.html": "/Smartup-App/index.html",
+    "main.073c9b0a.css.map": "/Smartup-App/static/css/main.073c9b0a.css.map",
+    "main.ac1ee56f.js.map": "/Smartup-App/static/js/main.ac1ee56f.js.map",
+    "787.b44f576d.chunk.js.map": "/Smartup-App/static/js/787.b44f576d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.ac1ee56f.js"
+  ]
+}
