@@ -17,7 +17,7 @@ function App() {
         console.log(res.data.content);
         var showSummaryArrayCopy = [];
         res.data.content.map((data) => {
-            showSummaryArrayCopy.push(false);
+            return showSummaryArrayCopy.push(false);
         });
         setShowSummaryArray(showSummaryArrayCopy);
     };
