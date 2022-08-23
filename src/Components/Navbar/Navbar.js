@@ -136,7 +136,11 @@ export default function Navbar({ newsData }) {
                     Leadboard Community
                 </div>
             </div>
-            <div style={{ marginTop: "210px" }}>
+            <div style={{
+                position: "absolute",
+                bottom: "10px",
+                width: "12%"
+            }}>
                 <div
                     style={{
                         height: "1px",
